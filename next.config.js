@@ -2,8 +2,8 @@
 const nextConfig = {
   reactStrictMode: true,
   env: {
-    backendURL: 'http://localhost:4000',
-    frontEndURL: 'http://localhost:3000'
+    backendURL: 'https://mv-nodesend-server.herokuapp.com/',
+    frontEndURL: 'https://nodesend-cliente-mvesce.vercel.app/'
   }
 }
 
